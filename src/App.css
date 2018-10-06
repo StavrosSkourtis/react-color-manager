@@ -1,0 +1,25 @@
+body {
+    background-color: #FFF;
+    color: #474c59;
+}
+
+.app {
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 50px;
+    background-color: #edf1f4;;
+    box-shadow: 0px 0px 7px 1px #aaa;
+}
+
+.centered-header {
+    text-align: center
+}
+
+.table-counter {
+    text-align: right;
+}
+
+.app-title {
+    text-align: center;
+    font-weight: bold; 
+}

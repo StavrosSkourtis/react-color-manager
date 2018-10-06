@@ -1,0 +1,11 @@
+.row-colored-block {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #474c59;
+    height: 25px;
+}
+
+.color-row {
+    margin: 10px;
+    text-align: center;
+}
